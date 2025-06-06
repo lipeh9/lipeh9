@@ -1,16 +1,43 @@
-## Hi there 👋
+### Olá, eu sou o Felipe! Seja Bem Vindo (a) 👋
 
-<!--
-**lipeh9/lipeh9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Apaixonado por programação e tecnologia  
+🚀 Em busca da minha primeira oportunidade na área de desenvolvimento
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias que estou estudando:
+
+- Python
+-  Html5, Css, Javascript e Php
+-  C
+- Flask, PyQT
+- SQLite/PostgreSQL
+- Modelagem de Banco de Dados (conceitual, lógica e física)
+
+---
+
+### 📚 Projetos acadêmicos
+
+🔹 **Mini-CRM com Flask**  
+CRUD completo com banco de dados e rotas web em Flask  
+🔹 **Sistema Acadêmico com PyQt**  
+Interface gráfica + cadastro de disciplinas + banco de dados
+
+*Acesse os projetos no meu perfil!*
+
+---
+
+### 🎯 Em desenvolvimento
+
+- QUIZ de perguntas sobre Lógica de Programação
+
+---
+
+### 📫 Como falar comigo?
+
+- [LinkedIn](https://linkedin.com/in/felipe-limaaa) <!-- substitua -->
+- E-mail: fexangelical9@gmail.com
+---
+
+Obrigado por visitar meu perfil! 🚀
