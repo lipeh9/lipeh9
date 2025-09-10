@@ -1,4 +1,4 @@
-### Olá, eu sou o Felipe! Seja Bem Vindo (a) 👋
+### Olá, eu sou Felipe! Seja Bem Vindo (a) 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Apaixonado por programação e tecnologia  
