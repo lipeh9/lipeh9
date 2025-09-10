@@ -9,9 +9,7 @@
 ### 🛠️ Tecnologias que estou estudando:
 
 - Python
--  Html5, Css, Javascript e Php
 -  C
-- Flask, PyQT
 - SQLite/PostgreSQL
 - Modelagem de Banco de Dados (conceitual, lógica e física)
 
