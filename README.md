@@ -1,4 +1,5 @@
-### 👋 Olá, eu sou o Felipe! Seja bem-vindo(a)
+### 👋 Olá, seja bem-vindo(a)
+### 🧑‍💻 Me chamo Felipe Lima!
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 💻 desenvolvedor **back-end**  
