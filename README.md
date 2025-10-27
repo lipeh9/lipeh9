@@ -1,8 +1,7 @@
 ### 👋 Olá, eu sou o Felipe! Seja bem-vindo(a)
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Apaixonado por **programação e tecnologia**  
-🚀 Em busca da minha **primeira oportunidade** na área de desenvolvimento  
+💻 desenvolvedor **back-end**  
 
 ---
 
